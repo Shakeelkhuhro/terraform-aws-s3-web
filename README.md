@@ -42,8 +42,6 @@ This project provisions an AWS S3 bucket to host a static portfolio website usin
    git clone https://github.com/Shakeelkhuhro/terraform-aws-s3-web.git
    cd terraform-aws-s3-web
 
-```
-```
 
 2. **Initialize Terraform**
 
@@ -79,5 +77,3 @@ terraform destroy
 ## License
 
 This project is licensed under the [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/).
-
-```
