@@ -35,8 +35,8 @@ This project provisions an AWS S3 bucket to host a static portfolio website usin
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/aws-s3-web.git
-   cd aws-s3-web
+   git clone https://github.com/Shakeelkhuhro/terraform-aws-s3-web.git
+   cd terraform-aws-s3-web
    ```
 
 2. **Initialize Terraform**
